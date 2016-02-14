@@ -1,0 +1,20 @@
+{
+  "name": "crystalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystalize/crystalize.git"
+  },
+  "keywords": [],
+  "author": "Shawn Dellysse <sdellysse@gmail.com> (http://shawndellysse.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crystalize/crystalize/issues"
+  },
+  "homepage": "https://github.com/crystalize/crystalize#readme"
+}
