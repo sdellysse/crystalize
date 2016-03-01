@@ -1,6 +1,6 @@
 {
   "name": "crystalize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -19,7 +19,6 @@
   "homepage": "https://github.com/crystalize/crystalize#readme",
   "dependencies": {
     "crystalize-access-log": "*",
-    k
     "crystalize-crystal": "*",
     "crystalize-query-parameters": "*"
   }
